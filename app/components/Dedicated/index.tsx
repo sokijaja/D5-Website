@@ -17,8 +17,9 @@ const Dedicated = () => {
                     {/* COLUMN-2 */}
                     <div className="relative">
                         <Image src="images/dedicated/comma.svg" alt="comma-image" width={200} height={106} className="absolute comma-pos hidden lg:block" />
-                        <h2 className="text-4xl lg:text-65xl pt-4 font-bold sm:leading-tight mt-5 text-center lg:text-start">Committed to Realizing Your Vision</h2>
-                        <p className="font-medium text-lightblack text-2xl mt-5 text-center lg:text-start">Our approach combines innovative design, meticulous attention to detail, and a deep understanding of your unique vision, ensuring every project we undertake is a masterpiece in its own right.</p>
+                        <h2 className="text-4xl lg:text-65xl pt-4 font-bold sm:leading-tight mt-5 text-center lg:text-start">WHY D5?</h2>
+                        <p className="font-medium text-lightblack text-2xl mt-5 text-center lg:text-start">Choosing us is rationality. Our technicians have in-depth knowledge and long term experience in their various fields and every Project we undertake is executed by professional technicians in that field.
+                        Our Technicians work together to achieve a single objective which is quality services, clean job and time management.</p>
                         <p className="text-2xl font-semibold mt-12 lg:ml-32 preline text-center lg:text-start">D5 Facility Techs.</p>
                     </div>
 

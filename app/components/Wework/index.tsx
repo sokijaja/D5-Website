@@ -13,8 +13,14 @@ const postData: DataType[] = [
     name: 'Joseph Michael',
     imgSrc: '/images/wework/avatar4.png',
   },
+  
   {
-    profession: 'Technical Adviser',
+    profession: 'Project Manager',
+    name: 'Yusuf Toheeb .O.',
+    imgSrc: '/images/wework/avatar3.png',
+  },
+  {
+    profession: 'Special Adviser',
     name: 'Karaniu Hamzza',
     imgSrc: '/images/wework/avatar2.png',
   },
@@ -24,12 +30,7 @@ const postData: DataType[] = [
     imgSrc: '/images/wework/avatar1.png',
   },
   {
-    profession: 'Project Manager',
-    name: 'Yusuf Toheeb .O.',
-    imgSrc: '/images/wework/avatar3.png',
-  },
-  {
-    profession: 'Global Team Lead',
+    profession: 'Interior & Exterior designer',
     name: 'Bajela Olamilekan Michael',
     imgSrc: '/images/wework/avatar5.png',
   },

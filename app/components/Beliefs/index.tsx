@@ -8,8 +8,8 @@ const Beliefs = () => {
 
                 <div className="bg-darkblue bg-beliefs pt-12 px-10 sm:px-24 pb-52 md:pb-70 rounded-3xl">
                     <h2 className="text-lg font-normal text-white tracking-widest mb-5 text-center sm:text-start">MISSION</h2>
-                    <h3 className="text-4xl sm:text-65xl font-bold text-white leading-snug mb-5 text-center sm:text-start">Transparency<span className="text-grey"><br />and Premium Service Delivery.</span></h3>
-                    <h5 className="text-offwhite pt-2 mb-5 text-center sm:text-start">At D5, our mission is to transform the real estate landscape across Africa by delivering innovative, high-quality property solutions.</h5>
+                    <h3 className="text-4xl sm:text-65xl font-bold text-white leading-snug mb-5 text-center sm:text-start">Affordable<span className="text-grey"><br />Technician Services.</span></h3>
+                    <h5 className="text-offwhite pt-2 mb-5 text-center sm:text-start">At D5 Facility Techs, our mission is to serve you with our quality, unique, and innovative technical skills. Making available an affordable and uncompromising technician services for every Homeowners, residents, firms, organisations, and Nigerian abroad while we build trust and confidence through standards and time management.</h5>
                     <div className="text-center sm:text-start">
                     </div>
                 </div>
@@ -19,7 +19,7 @@ const Beliefs = () => {
                 <div className="bg-build pt-12 px-10 sm:px-24 pb-52 md:pb-70 rounded-3xl">
                     <h2 className="text-lg font-normal text-white tracking-widest mb-5 text-center sm:text-start">VISION</h2>
                     <h3 className="text-4xl sm:text-65xl font-bold text-black leading-snug mb-5 text-center sm:text-start"><span className="text-white">Build</span> your Ideas</h3>
-                    <h5 className="bluish pt-2 mb-5 text-center sm:text-start"> Our goal is to be the leading firm in Africa, setting new standards in the design, construction, and management of properties, and creating lasting value for our clients, communities, and the environment.</h5>
+                    <h5 className="bluish pt-2 mb-5 text-center sm:text-start">We envision to be the most innovative, reliable, trustworthy, fastest, and leading facility solution provider company.</h5>
                     <div className="text-center sm:text-start">
                     </div>
                 </div>

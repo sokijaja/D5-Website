@@ -21,14 +21,14 @@ const Banner = () => {
                 {/* COLUMN-1 */}
                 <div className="mt-20 mx-auto sm:mx-0">
                     <div className='py-2 text-center'>
-                        <button className='text-blue bg-lightblue hover:shadow-xl text-xs md:text-md font-bold px-6 py-1 rounded-3xl tracking-wider hover:text-white hover:bg-blue'>Africa&apos;s #1 Property Firm </button>
+                        <button className='text-blue bg-lightblue hover:shadow-xl text-xs md:text-md font-bold px-6 py-1 rounded-3xl tracking-wider hover:text-white hover:bg-blue'>Africa&apos;s #1 Facility Technicians</button>
                     </div>
                     <div className="py-3 text-center">
                         <h1 className='text-6xl lg:text-80xl font-bold text-white mb-10'>
                         Let&apos;s Bring<br />Your Next Project to Life. 
                         </h1>
                         <p className="text-2xl text-white">
-                           We Design | We Construct | We Manage.
+                           We Design | We Install | We Repair
                         </p>
                     </div>
                 </div>

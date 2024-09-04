@@ -33,7 +33,7 @@ const Drawer = ({ children, isOpen, setIsOpen }: DrawerProps) => {
 
                         <div className="flex flex-shrink-0 items-center border-right">
                             <Link href="/" className='text-2xl font-semibold text-black'>
-                              <Image className='mt-10' src="/images/banner/d5-icon.svg" alt="drawer-image" width={45} height={15} />
+                              <Image className='mt-10' src="/images/banner/d5-icon.png" alt="drawer-image" width={45} height={15} />
                             </Link>
                         </div>
 

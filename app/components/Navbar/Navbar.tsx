@@ -41,7 +41,7 @@ const Navbar = () => {
                             <div className="flex flex-shrink-0 items-center border-right">
                                 
                                 <Link href="/" className='text-2xl sm:text-4xl font-semibold text-black'>
-                                 <Image src="/images/banner/d5-logo.svg" alt="hero-image" width={150} height={35} />
+                                 <Image src="/images/banner/d5-logo.png" alt="hero-image" width={150} height={35} />
                                 </Link>
                             </div>
 
