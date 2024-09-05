@@ -40,15 +40,15 @@ const ContactForm = () => {
                 </div>
 
                 <div className="mt-12 flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-8">
-                    <Link href="tel:+2348087562433" className="flex items-center space-x-2 text-blue-600 hover:text-blue-800">
+                    <Link href="tel:+2349125319416" className="flex items-center space-x-2 text-blue-600 hover:text-blue-800">
                     <PhoneIcon className="h-6 w-6" />
-                        <span>Customer Care: +2348087562433</span>
+                        <span>Customer Care: +2349125319416</span>
                     </Link>
-                    <Link href="tel:+2348087562433" className="flex items-center space-x-2 text-blue-600 hover:text-blue-800">
+                    <Link href="tel:+2349132601857" className="flex items-center space-x-2 text-blue-600 hover:text-blue-800">
                     <PhoneIcon className="h-6 w-6" />
-                        <span>Complaints: +2348087562433</span>
+                        <span>Complaints: +2349132601857</span>
                     </Link>
-                    <Link href="https://wa.me/2348087562433" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 bg-black text-white px-4 py-2 rounded-lg hover:bg-black transition duration-300">
+                    <Link href="https://wa.link/68yfry" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 bg-black text-white px-4 py-2 rounded-lg hover:bg-black transition duration-300">
                         <ChatBubbleLeftEllipsisIcon className="h-6 w-6" />
                         <span>WhatsApp Us</span>
                     </Link>
