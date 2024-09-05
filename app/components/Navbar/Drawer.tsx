@@ -51,7 +51,7 @@ const Drawer = ({ children, isOpen, setIsOpen }: DrawerProps) => {
                 onClick={() => {
                     setIsOpen(false);
                 }}
-            ></section>
+            ></section> 
         </main>
     );
 }

@@ -8,8 +8,8 @@ const Beliefs = () => {
 
                 <div className="bg-darkblue bg-beliefs pt-12 px-10 sm:px-24 pb-52 md:pb-70 rounded-3xl">
                     <h2 className="text-lg font-normal text-white tracking-widest mb-5 text-center sm:text-start">MISSION</h2>
-                    <h3 className="text-4xl sm:text-65xl font-bold text-white leading-snug mb-5 text-center sm:text-start">Affordable<span className="text-grey"><br />Technician Services.</span></h3>
-                    <h5 className="text-offwhite pt-2 mb-5 text-center sm:text-start">At D5 Facility Techs, our mission is to serve you with our quality, unique, and innovative technical skills. Making available an affordable and uncompromising technician services for every Homeowners, residents, firms, organisations, and Nigerian abroad while we build trust and confidence through standards and time management.</h5>
+                    <h3 className="text-4xl sm:text-65xl font-bold text-white leading-snug mb-5 text-center sm:text-start">Affordable<span className="text-grey"><br />Technical Services.</span></h3>
+                    <h5 className="text-offwhite pt-2 mb-5 text-center sm:text-start">At D5 Facility Techs, our mission is to serve you with our quality, unique, and innovative technical skills. Making available an affordable and uncompromising technical services for every Homeowners, residents, firms, organisations, and Nigerian abroad while we build trust and confidence through standards and time management.</h5>
                     <div className="text-center sm:text-start">
                     </div>
                 </div>

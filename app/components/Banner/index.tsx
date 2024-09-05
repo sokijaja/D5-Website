@@ -24,9 +24,9 @@ const Banner = () => {
                         <button className='text-blue bg-lightblue hover:shadow-xl text-xs md:text-md font-bold px-6 py-1 rounded-3xl tracking-wider hover:text-white hover:bg-blue'>Africa&apos;s #1 Facility Technicians</button>
                     </div>
                     <div className="py-3 text-center">
-                        <h1 className='text-6xl lg:text-80xl font-bold text-white mb-10'>
-                        We Offer Quality Affordable<br />Technician Services</h1>
-                        <p className="text-2xl text-white">
+                        <h1 className='text-3xl lg:text-80xl font-bold text-white mb-10'>
+                        We Offer Quality Affordable<br />Technical Services</h1>
+                        <p className="md:text-xl lg:text-2xl text-white">
                            We Construct | We Install | We Repair
                         </p>
                     </div>

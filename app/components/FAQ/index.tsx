@@ -39,7 +39,7 @@ const FAQ = () => {
                                     />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="px-4 pt-4 pb-2 text-base text-black font-normal opacity-50">
-                                Quality is at the core of everything we do. Our experienced team leaders oversees the activities of the technicians to guarantee clean and quality delivery within a specified time frame.
+                                Quality is at the core of everything we do. Our experienced team leaders oversee the activities of the technicians to guarantee clean and quality delivery within a specified time frame.
                                 We have experienced project managers who undertakes projects for companies, firms, estates, residents, Nigerian abroad and others to ensure client’s satisfaction.
                                 </Disclosure.Panel>
                             </>
