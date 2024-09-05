@@ -19,7 +19,7 @@ const ContactForm = () => {
                 <div className="text-center">
                     <h3 className="text-blue-600 text-lg font-normal tracking-widest">CONTACT US</h3>
                     <h2 className="text-4xl sm:text-6xl font-bold my-6 leading-10">Get in Touch<br />with D5</h2>
-                    <p className="text-gray-700 text-base font-normal">We're here to help! Reach out to us for any inquiries or services you need.</p>
+                    <p className="text-gray-700 text-base font-normal">We are here to help! Reach out to us for any inquiries or services you need.</p>
                 </div>
 
                 <div className="mx-auto max-w-4xl pt-5">
