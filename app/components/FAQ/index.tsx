@@ -20,7 +20,7 @@ const FAQ = () => {
                                     />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="px-4 pt-4 pb-2 text-base text-black font-normal opacity-50">
-                                D5 Facility Techs provides comprehensive property services including design, construction, and management for residential, commercial, and estate projects. We tailor our solutions to meet the unique needs of homeowners, businesses, and developers across Africa.
+                                D5 facility techs provide quality affordable facility solutions. We have professional Tilers, Glass and aluminium technicians, pop technicians, welders, bricklayers, furniture and carpenters, AC technicians, Electricians, Painters, plumbers, Signage technicians, general home cleaners, project managers, and more.
                                 </Disclosure.Panel>
                             </>
                         )}
@@ -39,7 +39,8 @@ const FAQ = () => {
                                     />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="px-4 pt-4 pb-2 text-base text-black font-normal opacity-50">
-                                Quality is at the core of everything we do. Our experienced team follows rigorous planning, construction, and management processes to ensure that each project meets the highest standards. We use top-quality materials and work with skilled professionals to deliver lasting value and excellence.
+                                Quality is at the core of everything we do. Our experienced team leaders oversees the activities of the technicians to guarantee clean and quality delivery within a specified time frame.
+                                We have experienced project managers who undertakes projects for companies, firms, estates, residents, Nigerian abroad and others to ensure client’s satisfaction.
                                 </Disclosure.Panel>
                             </>
                         )}
@@ -51,14 +52,15 @@ const FAQ = () => {
                         {({ open }) => (
                             <>
                                 <Disclosure.Button className="flex w-full justify-between rounded-lg px-4 py-2 text-left text-2xl font-medium">
-                                    <span>Can D5 Facility Techs assist with property management after construction is completed?</span>
+                                    <span>Can D5 facility techs assist in facility management? </span>
                                     <ChevronUpIcon
                                         className={`${open ? 'rotate-180 transform' : ''
                                             } h-5 w-5 text-purple-500`}
                                     />
                                 </Disclosure.Button>
                                 <Disclosure.Panel className="px-4 pt-4 pb-2 text-base text-black font-normal opacity-50">
-                                Yes, D5 Facility Techs offers full property management services. We handle everything from maintenance and repairs to tenant relations and operational management, ensuring your property remains in excellent condition and delivers consistent returns.
+                                Yes, D5 Facility Techs can be your technicians or your facility manager with no salary. 
+                                In the presence of a valid agreement, our technician will always be ready to respond to your calls to ensure timely solutions to all facility issues.
                                 </Disclosure.Panel>
                             </>
                         )}

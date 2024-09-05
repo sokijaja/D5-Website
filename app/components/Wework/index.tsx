@@ -9,7 +9,7 @@ interface DataType {
 
 const postData: DataType[] = [
   {
-    profession: 'Team Lead',
+    profession: 'Team Leader',
     name: 'Joseph Michael',
     imgSrc: '/images/wework/avatar4.png',
   },

@@ -15,28 +15,28 @@ const Aboutdata: datatype[] = [
         heading: "Homeowners/Residents",
         imgSrc: "/images/aboutus/imgOne.svg",
         bgSrc: "/images/aboutus/plan.jpg",
-        paragraph: 'D5 Facility Techs helps homeowners bring their dream homes to life through expert design, construction, and management. We create personalized spaces that reflect your lifestyle and ensure lasting comfort and quality.',
+        paragraph: 'D5 Facility Techs offer technician services to every homeowners and residents, providing you timely quality affordable facility solution services on demand. We are fast and reliable.',
         link: 'Learn more'
     },
     {
         heading: "Firms/Companies",
         imgSrc: "/images/aboutus/imgTwo.svg",
         bgSrc: "/images/aboutus/construction-5.jpg",
-        paragraph: 'For businesses, D5 Facility Techs designs and builds professional spaces that inspire productivity and success. We deliver functional and innovative environments tailored to your company’s unique needs.',
+        paragraph: 'D5 Facility Techs offers technician services to Firms and Company either as technicians or as facility manager on agreements. With the help of our professional team leaders,quality and timely solutions is assured.',
         link: 'Learn more'
     },
     {
         heading: "Estates/Builders",
         imgSrc: "/images/aboutus/imgThree.svg",
         bgSrc: "/images/aboutus/construction-2.png",
-        paragraph: 'D5 Facility Techs partners with estate developers and builders to execute large-scale projects efficiently. From planning to management, we ensure top-quality results that add value to your developments.',
+        paragraph: 'D5 Facility Techs offers technician services to Estates and builders. We can be technicians working with your site engineers, architects, supervisors, or estate managements. With the help of our experienced project managers, we also can undertake and prosecute facility solution projects, ensuring quality and on time delivery.',
         link: 'Learn more'
     },
     {
         heading: "Nigerians Abroad",
         imgSrc: "/images/aboutus/imgThree.svg",
         bgSrc: "/images/aboutus/naij.png",
-        paragraph: 'D5 Facility Techs offers seamless property solutions for Nigerians in the diaspora, ensuring your real estate investments back home are managed with precision and care. We deliver trusted services that give you peace of mind, no matter where you are.',
+        paragraph: 'D5 Facility Techs offers technician services to Nigerian away from home. We undertake and oversee your facility solution projects, renovations, or building construction projects. Our experienced project managers are ready to bring your concept and ideas into reality while you are away. Quality and timely service, clean delivery and integrity are all here.',
         link: 'Learn more'
     },
 ]

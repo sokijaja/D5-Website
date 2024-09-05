@@ -8,6 +8,7 @@ import Ourteam from './components/Ourteam/index';
 import FAQ from './components/FAQ/index';
 import Joinus from './components/Joinus/index';
 import Insta from './components/Insta/index';
+import Manage from './components/Manage';
 
 
 export default function Home() {
@@ -18,6 +19,7 @@ export default function Home() {
       <Dedicated />
       <Digital />
       <Beliefs />
+      <Manage />
       <Wework />
       <Ourteam />
       {/* <Featured /> */}
