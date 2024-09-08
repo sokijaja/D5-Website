@@ -9,23 +9,23 @@ interface DataType {
 
 const postData: DataType[] = [
   {
-    profession: 'Team Leader',
+    profession: 'Team Leader (Glass Technician)',
     name: 'Joseph Michael',
     imgSrc: '/images/wework/avatar4.png',
   },
   
   {
-    profession: 'Project Manager',
+    profession: 'Project Manager (Aluminium Technician)',
     name: 'Yusuf Toheeb .O.',
     imgSrc: '/images/wework/avatar3.png',
   },
   {
-    profession: 'Special Adviser',
+    profession: 'Special Adviser(Electrical Engineer)',
     name: 'Karaniu Hamzza',
     imgSrc: '/images/wework/avatar2.png',
   },
   {
-    profession: 'Social Media Manager',
+    profession: 'Social Media Manager (Signage Technician)',
     name: 'Bajulaiye Muhammed Adewale',
     imgSrc: '/images/wework/avatar1.png',
   },
