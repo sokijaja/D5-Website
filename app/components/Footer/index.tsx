@@ -19,11 +19,6 @@ const products: ProductType[] = [
         section: "Category",
         link: ['Technician', 'Projects', 'Management']
     },
-    {
-        id: 4,
-        section: "Others",
-        link: ['Social Links', 'Partnerships']
-    }
 ]
 
 const footer = () => {
@@ -63,7 +58,7 @@ const footer = () => {
                             <ul>
                                 {product.link.map((link: string, index: number) => (
                                     <li key={index} className='mb-5'>
-                                        <Link href="https://www.instagram.com/d5facilitytechs" className="text-white text-lg font-normal mb-6 space-links">{link}</Link>
+                                        <Link href="/" className="text-white text-lg font-normal mb-6 space-links">{link}</Link>
                                     </li>
                                 ))}
                             </ul>
