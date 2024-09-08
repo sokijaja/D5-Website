@@ -40,7 +40,9 @@ const TeamMemberCard: React.FC<DataType> = ({ name, profession, imgSrc }) => (
   <div className='bg-white p-6 rounded-xl shadow-lg transition-transform hover:scale-105'>
     <div className='relative mb-4'>
       <Image src={imgSrc} alt={name} width={182} height={182} className="rounded-full mx-auto" />
+      <a target="_blank" href="https://www.linkedin.com/company/d5-facility-techs-ltd/" >
       <Image src='/images/wework/linkedin.svg' alt="LinkedIn" width={40} height={40} className="absolute bottom-0 right-0" />
+      </a>
     </div>
     <h4 className='text-2xl font-bold mb-2'>{name}</h4>
     <h3 className='text-lg text-gray-600'>{profession}</h3>

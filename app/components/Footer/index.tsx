@@ -38,13 +38,19 @@ const footer = () => {
                         <h3 className='text-white text-4xl font-semibold leading-9 mb-4 lg:mb-20'>D5 Facility Techs</h3>
                         <div className='flex gap-4'>
                             <div className='footer-icons'>
-                                <Link href="https://facebook.com"><Image src={'/images/footer/vec.svg'} alt="facebook" width={15} height={20} /></Link>
+                                <Link href="https://www.facebook.com/profile.php?id=61564427846722&mibextid=ZbWKwL"><Image src={'/images/footer/vec.svg'} alt="facebook" width={15} height={20} /></Link>
                             </div>
                             <div className='footer-icons'>
-                                <Link href="https://twitter.com"><Image src={'/images/footer/twitter.svg'} alt="twitter" width={20} height={20} /></Link>
+                                <Link href="https://x.com/D5FacilityTechs"><Image src={'/images/footer/twitter.svg'} alt="twitter" width={20} height={20} /></Link>
                             </div>
                             <div className='footer-icons'>
-                                <Link href="https://instagram.com"><Image src={'/images/footer/instagram.svg'} alt="instagram" width={20} height={20} /></Link>
+                                <Link href="https://www.instagram.com/d5facilitytechs"><Image src={'/images/footer/instagram.svg'} alt="instagram" width={20} height={20} /></Link>
+                            </div>
+                            <div className='footer-icons'>
+                                <Link href="https://www.linkedin.com/company/d5-facility-techs-ltd/"><Image src={'/images/footer/linkedin.svg'} alt="linkedin" width={20} height={20} /></Link>
+                            </div>
+                            <div className='footer-icons'>
+                                <Link href="https://www.tiktok.com/@d5.facility.techs?_t=8pAjT4LHlwr&_r=1"><Image src={'/images/footer/tiktok.svg'} alt="tiktok" width={20} height={20} /></Link>
                             </div>
                         </div>
                     </div>
@@ -57,7 +63,7 @@ const footer = () => {
                             <ul>
                                 {product.link.map((link: string, index: number) => (
                                     <li key={index} className='mb-5'>
-                                        <Link href="/" className="text-white text-lg font-normal mb-6 space-links">{link}</Link>
+                                        <Link href="https://www.instagram.com/d5facilitytechs" className="text-white text-lg font-normal mb-6 space-links">{link}</Link>
                                     </li>
                                 ))}
                             </ul>

@@ -5,7 +5,7 @@ import Footer from './components/Footer/index';
 
 export const metadata = {
   title: 'D5 Facility Techs',
-  description: "Africa's leading property firm specializing in design, construction, and management of residential, commercial, and estate projects. Transforming visions into reality with excellence.",
+  description: "Africa's leading technicians specializing in fabrication, repair, and management of residential, commercial, and estate projects. Transforming visions into reality with excellence.",
 }
 
 export default function RootLayout({
