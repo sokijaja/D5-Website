@@ -12,9 +12,15 @@ const navigation: NavigationItem[] = [
     { name: 'About Us', href: '#aboutus-section', current: true },
     { name: 'Services', href: '#services-section', current: false },
     { name: 'FAQ', href: '#faq-section', current: false },
-    { name: 'Blog', href: '#blog-section', current: false },
     { name: 'Testimonial', href: '#testimonial-section', current: false },
 ]
+
+const scrollToContact = () => {
+    const contactSection = document.getElementById('contactus-section');
+    if (contactSection) {
+      contactSection.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
 
 function classNames(...classes: string[]) {
     return classes.filter(Boolean).join(' ')
@@ -40,10 +46,10 @@ const Data = () => {
                             </Link>
                         ))}
                         <div className="mt-4"></div>
-                        <button className="bg-navyblue w-full hover:text-white text-white border border-purple font-medium py-2 px-4 rounded">
+                        <button className="bg-navyblue w-full hover:text-white text-white border border-purple font-medium py-2 px-4 rounded" onClick={scrollToContact}>
                             Contact Us
                         </button>
-                        {/* <Contactusform /> */}
+                        <Contactusform />
                     </div>
                 </div>
             </div>
