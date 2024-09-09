@@ -15,7 +15,7 @@ const Aboutdata: datatype[] = [
         heading: "Homeowners/Residents",
         imgSrc: "/images/aboutus/imgOne.svg",
         bgSrc: "/images/aboutus/plan.jpg",
-        paragraph: 'D5 Facility Techs offer technical services to every homeowners and residents, providing you timely quality affordable facility solution services on demand. We are fast and reliable.',
+        paragraph: 'D5 Facility Techs offers technical services to every homeowners and residents, providing you timely, quality and affordable facility solution services on demand. We are fast and reliable.',
         link: 'Learn more'
     },
     {

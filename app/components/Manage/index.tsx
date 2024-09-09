@@ -110,6 +110,10 @@ const Manage = () => {
                         <Image src="/images/manage/right.svg" alt="right-icon" width={21} height={14} />
                         <h4 className='text-lg font-semibold'>Interior Designer</h4>
                     </div>
+                    <div className='flex gap-5 justify-left md:justify-start'>
+                        <Image src="/images/manage/right.svg" alt="right-icon" width={21} height={14} />
+                        <h4 className='text-lg font-semibold'>Inverter & Solar Panel Installatiions</h4>
+                    </div>
                 </div>
                 <div className='md:flex md:justify-around mt-10'>
                     <div className='flex gap-5 justify-left md:justify-start'>
