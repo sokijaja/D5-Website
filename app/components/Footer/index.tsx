@@ -13,12 +13,7 @@ const products: ProductType[] = [
         id: 1,
         section: "Menu",
         link: ['Home', 'About', 'Contact'],
-    },
-    {
-        id: 2,
-        section: "Category",
-        link: ['Technician', 'Projects', 'Management']
-    },
+    }
 ]
 
 const footer = () => {
@@ -56,11 +51,15 @@ const footer = () => {
                         <div key={product.id} className="group relative col-span-2">
                             <p className="text-white text-xl font-extrabold mb-9">{product.section}</p>
                             <ul>
-                                {product.link.map((link: string, index: number) => (
-                                    <li key={index} className='mb-5'>
-                                        <Link href="/" className="text-white text-lg font-normal mb-6 space-links">{link}</Link>
+                                    <li key='1' className='mb-5'>
+                                    <Link href="/" className="text-white text-lg font-normal mb-6 space-links">Home</Link>
                                     </li>
-                                ))}
+                                    <li key='2' className='mb-5'>
+                                    <Link href="#aboutus-section" className="text-white text-lg font-normal mb-6 space-links">About</Link>
+                                     </li>
+                                    <li key='3' className='mb-5'>
+                                    <Link href="#contactus-section" className="text-white text-lg font-normal mb-6 space-links">Contact</Link>
+                                    </li>
                             </ul>
                         </div>
                     ))}
